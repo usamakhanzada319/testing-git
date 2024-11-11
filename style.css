@@ -9,8 +9,8 @@ h2{
     padding: 20px;
     text-align: center;
     font-size: 26px;
-    color: #000;
-    background: aqua;
+    color: #ff0000;
+    background: rgb(0, 4, 255);
 }
 p{
     font-size: 26px;
